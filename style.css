@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: 'Potta One', sans-serif;
+}
+
+canvas {
+  display: flex;
+}
+
+/* .HELLO {
+  transform-style: preserve-3d;
+  min-height: 80vh;
+  width: 35rem;
+  border-radius: 30px;
+  padding: 0rem 5rem;
+  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 50px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+} */
+
+/* .card {
+   transform-style: preserve-3d;
+   min-height: 80vh;
+   width: 35rem;
+   border-radius: 30px;
+   padding: 0rem 5rem;
+   box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 50px rgba(0, 0, 0, 0.2);
+   opacity: 0;
+} */
